@@ -12,8 +12,9 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 
 ### ⚙️ **Technologies and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=typescript,js,html,css,php,react,laravel,nodejs,express,tailwind,bootstrap,java,mysql,Flutter,postgresql,git,postman,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=typescript,js,html,css,php,react,laravel,nodejs,express,tailwind,bootstrap,java,mysql,flutter,postgresql,git,postman,docker)](https://skillicons.dev)
 
+[![Skills](https://skillicons.dev/icons?i=all)](https://skillicons.dev)
 
 
 ### 📸 **Personal Snapshot**
