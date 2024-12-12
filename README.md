@@ -16,6 +16,9 @@ I am currently pursuing my Bachelor’s degree in Software Engineering at Buraph
 
 
 ### 📸 **Personal Snapshot**
-![Kittipoom Yuttanava](https://profile-poommieiei.web.app/assets/images/poom5.JPEG)
+![Kittipoom Yuttanava](poom8.png)
 
 
+### 🐍 GitHub Contribution
+
+![Snake animation](https://raw.githubusercontent.com/poommieiei/poommieiei/refs/heads/output/github-contribution-grid-snake.svg)
